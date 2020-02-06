@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b486f524-a73c-4cf9-a448-f86c9ebee8b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1V807oamhVRJTUfD397h3QcTlDR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.03_face_recognition">
+    <configuration name="01_face_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCV-Face-Recognition-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FacialRecognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FacialRecognition/01_face_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_face_training" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCV-Face-Recognition-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FacialRecognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FacialRecognition/02_face_training.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_face_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCV-Face-Recognition-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FacialRecognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FacialRecognition/03_face_recognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="faceDetection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCV-Face-Recognition-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceDetection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceDetection/faceDetection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="faceSmileDetection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCV-Face-Recognition-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceDetection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceDetection/faceSmileDetection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.03_face_recognition" />
+        <item itemvalue="Python.02_face_training" />
+        <item itemvalue="Python.01_face_dataset" />
+        <item itemvalue="Python.faceSmileDetection" />
+        <item itemvalue="Python.faceDetection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b486f524-a73c-4cf9-a448-f86c9ebee8b8" name="Default Changelist" comment="" />
+      <created>1576619249365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576619249365</updated>
+      <workItem from="1576619251208" duration="3001000" />
+      <workItem from="1576622312564" duration="113000" />
+      <workItem from="1576666811343" duration="352000" />
+      <workItem from="1577031692824" duration="70000" />
+      <workItem from="1577200874395" duration="1723000" />
+      <workItem from="1577203441310" duration="127000" />
+      <workItem from="1577216399779" duration="10560000" />
+      <workItem from="1577267955160" duration="140000" />
+      <workItem from="1577271215615" duration="6037000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="197" key="GridCell.Tab.0.bottom" timestamp="1577282146585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577282146585" />
+    <state width="1877" height="197" key="GridCell.Tab.0.center" timestamp="1577282146585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="197" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577282146585" />
+    <state width="1877" height="197" key="GridCell.Tab.0.left" timestamp="1577282146585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="197" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577282146585" />
+    <state width="1877" height="197" key="GridCell.Tab.0.right" timestamp="1577282146585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="197" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577282146585" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1577280070856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577280070856" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1577271216853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577271216853" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OpenCV_Face_Recognition_master$02_face_training.coverage" NAME="02_face_training Coverage Results" MODIFIED="1576621182885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FacialRecognition" />
+    <SUITE FILE_PATH="coverage/FaceRecognition$03_face_recognition.coverage" NAME="03_face_recognition Coverage Results" MODIFIED="1577281627574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FacialRecognition" />
+    <SUITE FILE_PATH="coverage/OpenCV_Face_Recognition_master$03_face_recognition.coverage" NAME="03_face_recognition Coverage Results" MODIFIED="1576621215539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FacialRecognition" />
+    <SUITE FILE_PATH="coverage/FaceRecognition$02_face_training.coverage" NAME="02_face_training Coverage Results" MODIFIED="1577281605400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FacialRecognition" />
+    <SUITE FILE_PATH="coverage/OpenCV_Face_Recognition_master$faceDetection.coverage" NAME="faceDetection Coverage Results" MODIFIED="1576619639466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceDetection" />
+    <SUITE FILE_PATH="coverage/OpenCV_Face_Recognition_master$01_face_dataset.coverage" NAME="01_face_dataset Coverage Results" MODIFIED="1576621112284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FacialRecognition" />
+    <SUITE FILE_PATH="coverage/FaceRecognition$faceSmileDetection.coverage" NAME="faceSmileDetection Coverage Results" MODIFIED="1577201804860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceDetection" />
+    <SUITE FILE_PATH="coverage/FaceRecognition$01_face_dataset.coverage" NAME="01_face_dataset Coverage Results" MODIFIED="1577281528718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FacialRecognition" />
+  </component>
+</project>
